@@ -12,7 +12,7 @@ Full Stack Developer passionate about building scalable web applications.
 
 ## Projects
 
-• [AI Chat Application](https://github.com/MUSKANNISHAD/My_chat_app)
+• [AI Chat Application](https://github.com/MUSKANNISHAD/ChatBot-frontend)
 
 • [StayHub Property Rental Platform](https://github.com/MUSKANNISHAD/Stayhub)
 
