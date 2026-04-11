@@ -11,8 +11,11 @@ Full Stack Developer passionate about building scalable web applications.
 - AWS
 
 ## Projects
-- AI Chat Application
-- StayHub Property Rental Platform
-- Stock Trading Platform
+
+• [AI Chat Application](https://github.com/MUSKANNISHAD/My_chat_app)
+
+• [StayHub Property Rental Platform](https://github.com/MUSKANNISHAD/Stayhub)
+
+• [Stock Trading Platform](https://github.com/MUSKANNISHAD/your-repo-name)
 
 Currently improving my problem-solving skills and exploring backend systems.
