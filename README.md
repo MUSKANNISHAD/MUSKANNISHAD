@@ -56,11 +56,11 @@
 
 ## 🌟 Featured Projects
 
-### 🎥 [Callora — Video Conferencing App](https://github.com/MUSKANNISHAD/Callora_frontend)
-> Real-time peer-to-peer video & audio conferencing built with **React**, **WebRTC**, **Socket.IO**, and **Node.js**
+### 🤖 [AI ChatBot Application](https://github.com/MUSKANNISHAD/ChatBot-frontend)
+> AI-powered chat application frontend built with **React** and **Vite**, integrated with a **Node.js** backend and **OpenAI API**
 
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://callora-frontend.vercel.app)
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD/Callora_frontend)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://chat-bot-frontend-virid.vercel.app/)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD/ChatBot-frontend)
 
 ---
 
@@ -72,11 +72,11 @@
 
 ---
 
-### 🤖 [AI ChatBot Application](https://github.com/MUSKANNISHAD/ChatBot-frontend)
-> AI-powered chat application frontend built with **React** and **Vite**, integrated with a **Node.js** backend and **OpenAI API**
+### 🎥 [Callora — Video Conferencing App](https://github.com/MUSKANNISHAD/Callora_frontend)
+> Real-time peer-to-peer video & audio conferencing built with **React**, **WebRTC**, **Socket.IO**, and **Node.js**
 
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://chat-bot-frontend-virid.vercel.app/)
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD/ChatBot-frontend)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://callora-frontend.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD/Callora_frontend)
 
 ---
 
