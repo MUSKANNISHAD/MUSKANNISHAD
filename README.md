@@ -2,7 +2,7 @@
 
 # Hi there, I'm Muskan Kumari 👋
 
-**Full Stack Developer** · Final Year Student · they/them
+**Full Stack Developer** · Final Year Student · she/her.
 
 *Passionate about building scalable web applications & real-time systems*
 
