@@ -56,19 +56,20 @@
 
 ## 🌟 Featured Projects
 
+
+### 🏠 [Professional Networking Platform](https://github.com/MUSKANNISHAD/linkdin-clone)
+> full-stack LinkedIn-inspired professional networking platform built with Next.js, Node.js, Express and MongoDB.
+
+[![Live](https://linkdin-clone-xn9v.vercel.app/)](https://linkdin-clone-xn9v.vercel.app/)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD/linkdin-clone)
+
+---
+
 ### 🤖 [AI ChatBot Application](https://github.com/MUSKANNISHAD/ChatBot-frontend)
 > AI-powered chat application frontend built with **React** and **Vite**, integrated with a **Node.js** backend and **OpenAI API**
 
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://chat-bot-frontend-virid.vercel.app/)
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD/ChatBot-frontend)
-
----
-
-### 🏠 [Professional Networking Platform](https://github.com/MUSKANNISHAD/linkdin-clone)
-> full-stack LinkedIn-inspired professional networking platform built with Next.js, Node.js, Express and MongoDB.
-
-[![Live](https://linkdin-clone-xn9v.vercel.app/)](https://stayhub-0mx3.onrender.com/listings)
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD/linkdin-clone)
 
 ---
 
