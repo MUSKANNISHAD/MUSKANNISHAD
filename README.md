@@ -64,11 +64,11 @@
 
 ---
 
-### 🏠 [Stayhub — Property Rental Platform](https://github.com/MUSKANNISHAD/Stayhub)
-> Full-stack Airbnb-style platform with listings, authentication, reviews, and CRUD — built with **Node.js**, **Express**, **MongoDB**, **EJS**
+### 🏠 [Professional Networking Platform](https://github.com/MUSKANNISHAD/linkdin-clone)
+> full-stack LinkedIn-inspired professional networking platform built with Next.js, Node.js, Express and MongoDB.
 
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white)](https://stayhub-0mx3.onrender.com/listings)
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD/Stayhub)
+[![Live](https://linkdin-clone-xn9v.vercel.app/)](https://stayhub-0mx3.onrender.com/listings)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD/linkdin-clone)
 
 ---
 
