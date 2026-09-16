@@ -60,7 +60,7 @@
 ### 💼 [Professional Networking Platform](https://github.com/MUSKANNISHAD/linkdin-clone)
 > full-stack LinkedIn-inspired professional networking platform built with Next.js, Node.js, Express and MongoDB.
  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://linkdin-clone-xn9v.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://linkdin-clone-beryl.vercel.app/)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD/linkdin-clone)
 
 ---
