@@ -5,14 +5,6 @@
 **Full-Stack Web Developer & Software Engineering Aspirant**  
 📍 Jamshedpur, Jharkhand, India
 
-*Passionate about building scalable web applications, real-time communication tools, and interactive dashboards.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-kumari-70315a289/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUSKANNISHAD)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkumari40432@gmail.com)
-
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -104,7 +96,6 @@
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** [mkumari40432@gmail.com](mailto:mkumari40432@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/muskan-kumari-70315a289](https://www.linkedin.com/in/muskan-kumari-70315a289/)
 - 🐙 **GitHub:** [@MUSKANNISHAD](https://github.com/MUSKANNISHAD)
 
